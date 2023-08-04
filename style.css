@@ -1,0 +1,71 @@
+
+html{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #FDE5EC;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    margin: 0px;
+    color: #071952;
+    display: inline;
+}
+.heading p{
+    font-family: 'Kalam', cursive;
+    font-size: 1.5rem;
+}
+.heading img{
+    float: right;
+    width: 80px;
+    height: 80px;
+    margin-top: 15px;
+}
+h2{
+    font-family: 'Kalam', cursive;
+}
+.content{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.content img{
+    width: 350px;
+    height: 350px;
+    border: 5px solid #916DB3;
+    border-radius: 10%;
+}
+.box{
+    display: inline-block;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+}
+.first{
+    float: left;
+    border: 1px dotted #071952;
+    border-width: 0px 1px 0px 0px;
+    padding-right: 45px;
+}
+.second{
+    position: relative; 
+    left: 50px;
+    border: 1px dotted #071952;
+    border-width: 0px 1px 0px 0px;
+    padding-right: 45px;
+}
+.third{
+    float: right;
+}
+footer{
+    font-family: 'Kalam', cursive;
+}
+footer > span > img{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+
+
+
